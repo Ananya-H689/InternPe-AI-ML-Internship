@@ -109,7 +109,7 @@ The application instantly predicts whether the person is diabetic or not.
 
 Watch Project Demonstration:
 
-[Project Demo Video]([PASTE_VIDEO_LINK_HERE](https://www.linkedin.com/posts/ananya-hebbar-571b51343_machinelearning-ai-python-ugcPost-7471260635490865152-loRx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFYiEuUBQ4dB0TfR33EWppipinJai5tD7UE))
+[Project Demo Video](https://www.linkedin.com/posts/ananya-hebbar-571b51343_machinelearning-ai-python-ugcPost-7471260635490865152-loRx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFYiEuUBQ4dB0TfR33EWppipinJai5tD7UE)
 
 ## Repository Structure
 
