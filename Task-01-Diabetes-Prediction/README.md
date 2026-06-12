@@ -99,11 +99,11 @@ The application instantly predicts whether the person is diabetic or not.
 
 ### Diabetes Distribution Graph
 
-https://github.com/Ananya-H689/InternPe-AI-ML-Internship/blob/main/Task-01-Diabetes-Prediction/graph.png
+![Graph](graph.png)
 
 ### Diabetes Prediction Web Application
 
-https://github.com/Ananya-H689/InternPe-AI-ML-Internship/blob/main/Task-01-Diabetes-Prediction/webapp.png
+![webapp](webapp.png)
 
 ## Demo Video
 
