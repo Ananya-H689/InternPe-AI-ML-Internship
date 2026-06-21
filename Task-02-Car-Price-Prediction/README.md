@@ -198,6 +198,7 @@ with Car Price.
 
 ## Repository Structure
 
+```text
 Task-02-Car-Price-Prediction/
 │
 ├── Car_Price_Prediction_Ananya_Hebbar.ipynb
@@ -209,8 +210,7 @@ Task-02-Car-Price-Prediction/
 ├── kms_vs_price.png
 ├── fueltype_boxplot.png
 └── combined_analysis.png
-
----
+```
 
 ## Results
 
