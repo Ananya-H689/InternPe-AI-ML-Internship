@@ -18,14 +18,35 @@ This repository contains projects completed during my AI/ML Internship at Intern
 📁 Project Folder:
 Task-01-Diabetes-Prediction
 
-## Technologies Used
+## Task 02 - Car Price Prediction using Machine Learning
+
+- Dataset: Quikr Car Dataset
+- Model: Linear Regression
+- R² Score: ~0.89
+- Features:
+  - Data Cleaning
+  - Exploratory Data Analysis
+  - Feature Engineering
+  - One Hot Encoding
+  - Pipeline Creation
+  - Price Prediction System
+
+📁 Project Folder: Task-02-Car-Price-Prediction
+
+## Skills & Technologies
+
 - Python
+- Data Analysis
+- Data Cleaning
+- Data Visualization
+- Machine Learning
 - NumPy
 - Pandas
-- Scikit-Learn
 - Matplotlib
+- Seaborn
+- Scikit-Learn
 - Gradio
-- Google Colab
+- Google Collab.
 
 ## Author
 Ananya Hebbar
