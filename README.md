@@ -33,6 +33,24 @@ Task-01-Diabetes-Prediction
 
 📁 Project Folder: Task-02-Car-Price-Prediction
 
+## Task 03 - IPL First Innings Score Prediction using Machine Learning
+
+- Dataset: IPL Match Dataset
+- Model: Random Forest Regressor
+- Best Model Accuracy: Highest among all tested regression models
+- Features:
+  - Exploratory Data Analysis
+  - Data Cleaning
+  - Feature Engineering
+  - Label Encoding
+  - One Hot Encoding
+  - Multiple Model Training
+  - Model Evaluation
+  - Model Comparison
+  - IPL Score Prediction System
+
+📁 Project Folder: Task-03-IPL-Score-Prediction
+
 ## Skills & Technologies
 
 - Python
@@ -47,6 +65,9 @@ Task-01-Diabetes-Prediction
 - Scikit-Learn
 - Gradio
 - Google Collab.
+- Joblib
+- Random Forest
+- Machine Learning models 
 
 ## Author
 Ananya Hebbar
