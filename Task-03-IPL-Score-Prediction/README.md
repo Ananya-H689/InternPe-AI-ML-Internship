@@ -158,21 +158,19 @@ Saved models include:
 
 ---
 
-## Heatmap
-
-![Heatmap](heatmap.png)
-
----
-
 ## Model Comparison
 
 ![Model Comparison](model_comparison.png)
 
 ---
 
-## Prediction Output
+## Prediction Examples (Test Cases)
 
-![Prediction Output](prediction_output.png)
+![Prediction Example 1](prediction_output_1.png)
+
+---
+
+![Prediction Example 2](prediction_output_2.png)
 
 ---
 
@@ -185,9 +183,9 @@ Task-03-IPL-Score-Prediction/
 ├── ipl_colab.csv
 ├── README.md
 ├── correlation_matrix.png
-├── heatmap.png
 ├── model_comparison.png
-├── prediction_output.png
+├── prediction_output_1.png
+├── prediction_output_2.png
 ├── forest_model.pkl
 ├── tree_model.pkl
 └── neural_nets_model.pkl
@@ -211,7 +209,7 @@ Task-03-IPL-Score-Prediction/
 
 ✅ Selected **Random Forest Regressor** as the best-performing model
 
-✅ Predicted IPL first innings scores based on live match conditions
+✅ Successfully predicted IPL first innings scores for multiple test match scenarios.
 
 ✅ Saved trained models using Joblib for future predictions
 
